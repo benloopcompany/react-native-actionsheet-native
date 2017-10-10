@@ -85,7 +85,7 @@ public class MainActivity extends ReactFragmentActivity {
 From your JS files for both iOS and Android:
 
 ```javascript
-import ActionSheet from 'react-native-actionsheet';
+import ActionSheet from 'react-native-actionsheet-native';
 
 ActionSheet.showActionSheetWithOptions({
   options: ['Disconnect', 'Cancel'],
